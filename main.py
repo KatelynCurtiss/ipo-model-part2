@@ -21,3 +21,5 @@ total = num1 // num2
 
 # Output
 print("The sum of the two number is " + str (total) + ".")
+
+print(f"The sum of the two number is {total}.")
